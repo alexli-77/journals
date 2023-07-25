@@ -1,0 +1,9 @@
+### From "Containing Malicious Package Updates in npm with a Lightweight Permission System"
+
+```
+
+- Even though we cannot protect all packages, taking a software engineer’s system perspective in the fast paced world of open-source software ecosystems, we argue that even a 10 percent reduction in attack surface that can actually be enacted broadly would result in significant saving of community resources for security reviews and would make it harder for attackers to find packages that they can exploit.
+
+
+```
+
