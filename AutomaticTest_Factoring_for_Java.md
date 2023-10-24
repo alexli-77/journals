@@ -1,10 +1,10 @@
-AutomaticTest Factoring for Java
+### AutomaticTest Factoring for Java
 
 [AutomaticTest Factoring for Java](https://www.ase-conferences.org/olbib/p114-saff-430.pdf)
 
 This paper talkde about how to provide the benefits of focused tests to a developer who has only written system tests. And the authors proposed test factoring before and described the automated test factoring in detail.
 
-#### Capture and replay technique
+### Capture and replay technique
 
 The capture phrase : 
 
@@ -15,7 +15,7 @@ The replay phrase :
 It occurs during execution of the factored tests, that is, T'|Em. The system is run as before,but with real objects E replaced by mock objects Em; the original environment is never executed during the factored test.
 
 
-#### Notes
+### Notes
 
 4. Instrumenting Java classes
 
