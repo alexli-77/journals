@@ -15,7 +15,7 @@ A place to collect ideas, thoughts, notes, codes and data.
 
 [Can We Increase the Test-coverage in Libraries using Dependent Projects’ Test-suites?](https://drive.google.com/file/d/1rg-wc18276f4A4dv2Au_hMncp0jqtD0P/view)
 
-
+[Cross-coverage testing of functionally equivalent programs](https://arxiv.org/pdf/2304.14768)
 
 ## TODO
 
