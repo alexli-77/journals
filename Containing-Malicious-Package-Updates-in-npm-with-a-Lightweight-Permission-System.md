@@ -1,3 +1,5 @@
+[Containing Malicious Package Updates in npm with a Lightweight Permission System](https://www.cs.cmu.edu/~jssunshi/assets/pdf/ferreira2021containing.pdf)
+
 ### Introduction 
 
 - Modern software applications are commonly built on top of many reusable packages that are constantly evolving.
@@ -7,26 +9,10 @@
 
 ### Contribution
 
-(1) we design a lightweight permission system that protects Node.js applications against malicious package updates for a significant number of packages, 
-(2) we discuss design trade-offs to highlight how the chosen partial but low-cost solution fits into a larger security strategy, 
-(3) we evaluate the solution on a large number of packages and applications, 
-(4) we make both the implementation and evaluation benchmarks available (https://github.com/gabrielcsf/malicious-updates-icse2021).
-
-
-### Motivation
-
-
-
-
-
-### Methodology
-
-
-
-
-### Implementation
-
-
+1. we design a lightweight permission system that protects Node.js applications against malicious package updates for a significant number of packages.
+2.  we discuss design trade-offs to highlight how the chosen partial but low-cost solution fits into a larger security strategy.
+3.  we evaluate the solution on a large number of packages and applications.
+4. we make both the implementation and evaluation benchmarks available (https://github.com/gabrielcsf/malicious-updates-icse2021).
 
 
 ### Conclusion

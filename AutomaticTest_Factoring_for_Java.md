@@ -2,7 +2,9 @@
 
 [AutomaticTest Factoring for Java](https://www.ase-conferences.org/olbib/p114-saff-430.pdf)
 
-This paper talkde about how to provide the benefits of focused tests to a developer who has only written system tests. And the authors proposed test factoring before and described the automated test factoring in detail.
+This paper talked about how to provide the benefits of focused tests to a developer who has only written system tests. The authors described the automated test factoring in detail.
+
+In their previous work, they proposed dynamic test factoring. The authors performed practical dynamic test factoring for a Java program in this paper. They presented the dynamic capture-replay technique to construct mock objects to replace the real objects environment. This paper was published in 2004, but it provided an excellent solution to optimize the running time of the system test suite.
 
 ### Capture and replay technique
 
