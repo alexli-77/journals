@@ -21,3 +21,9 @@ A place to collect ideas, thoughts, notes, codes and data.
 
 [Taming Behavioral Backward Incompatibilities via Cross-Project Testing and Analysis](https://lingming.cs.illinois.edu/publications/icse2020a.pdf)
 
+[Do Automatically Generated Unit Tests Find Real Faults?
+An Empirical Study of Effectiveness and Challenges](https://drive.google.com/file/d/1IqaGMv4ITGPYVXHBMb0NIrp98qymvf39/view)
+
+[Software Testing and Code Refactoring: A Survey with Practitioners](https://arxiv.org/pdf/2310.01719.pdf)
+
+[What is a case study?](https://ebn.bmj.com/content/ebnurs/21/1/7.full.pdf)
